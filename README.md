@@ -11,7 +11,7 @@
 ----------------------------------------------------------------------------------------------------------
 
 ## Features
-------------------------------------
+
 **Policyholder Management**
 - Register new policyholders.
 - Suspend and reactivate policyholder accounts.
@@ -35,7 +35,7 @@
 ---------------------------------------------------------------------------------------------
 
 ## Project Structure
-------------------------------------------
+
 The project consists of the following files:
 - **policyholder.py:** Contains the Policyholder class with methods to manage policyholders.
 - **product.py:** Contains the Product class with methods to manage products.
@@ -45,14 +45,14 @@ The project consists of the following files:
 --------------------------------------------------------------------------------------------------------
 
 ## Installation
-------------------------------------------------
+
 - Clone the repository or download as a zipped file.
 - Ensure you have Python installed (Python 3.6 or higher is recommended)
 **Very important: Ensure that the policyholder.py, product.py, payment.py and main.py are all in one folder.**
 -------------------------------------------------------------------------------------------------------------------
 
 ## Usage
----------------------------------
+
 - Create Policyholders and Products
 - Instantiate policyholders and products using the Policyholder and Product classes.
 - Process Payments
