@@ -4,10 +4,10 @@
 
 
 ## Project Description
--------------------------------
-This Policy Management System is designed to manage policyholders, products, and payments for an insurance company. 
-The system allows you to register policyholders, manage product details, process payments, send reminders, and apply penalties. 
-The project is implemented in Python with classes for policyholders, products, and payments, ensuring modular and maintainable code.
+
+- This Policy Management System is designed to manage policyholders, products, and payments for an insurance company. 
+- The system allows you to register policyholders, manage product details, process payments, send reminders, and apply penalties. 
+- The project is implemented in Python with classes for policyholders, products, and payments, ensuring modular and maintainable code.
 ----------------------------------------------------------------------------------------------------------
 
 ## Features
